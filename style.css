@@ -1,0 +1,10 @@
+
+#container{
+    margin-top: 3.5rem;
+    margin-left: 10rem;
+}
+#first-card {
+    background-color: black;
+    color: #ffff;
+    border: 1px solid blue
+}
